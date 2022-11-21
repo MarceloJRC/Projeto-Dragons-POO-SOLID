@@ -1,4 +1,4 @@
-export type EnergyType = 'mana' | 'staminia';
+export type EnergyType = 'mana' | 'stamina';
 
 export default interface Energy {
   type_ : EnergyType;
